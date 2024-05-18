@@ -1,4 +1,4 @@
-Sure, here's a sample README.md file for a music generation project using NumPy, Keras, and pretty_midi:
+
 
 # Music Generation with Deep Learning
 
